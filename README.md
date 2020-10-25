@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CA-bootcamp-s19/simple-bank-exercise-RohitGupta027.svg?branch=ConsenSys-Academy-patch-1)](https://travis-ci.org/CA-bootcamp-s19/simple-bank-exercise-RohitGupta027)
+
 # Simple Bank Exercise
 
 The Simple Bank directory is a truffle project that contains the required contract, migration and test files. In this exercise you are going to implement the SimpleBank.sol contract.
